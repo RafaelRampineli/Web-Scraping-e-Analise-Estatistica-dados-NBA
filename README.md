@@ -49,3 +49,7 @@ This statistic adjusts for the fact that a 3-point field goal is worth one more 
 - TOV -- Turnovers Per Game
 - PF -- Personal Fouls Per Game
 - PTS -- Points Per Game
+
+# TO DO:
+
+- Criar um modelo de regressão linear baseado em cada partida jogada por cada jogador. A ideia é ser capaz de fazer uma previsão de rebotes Ofensivos de cada jogador em determinado ponto do jogo (momento/hora).
